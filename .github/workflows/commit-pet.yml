@@ -1,0 +1,13 @@
+name: commit-pet
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # feeds the pet every 6 hours
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: bladeRc/commit-pet@main
