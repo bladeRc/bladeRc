@@ -40,6 +40,6 @@ text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; fil
 <text class="label" x="200" y="108">xp</text><rect x="252" y="100" width="160" height="9" rx="4.5" fill="var(--track)"/><rect class="fill xp" style="animation-delay:0.15s" x="252" y="100" width="9.0" height="9" rx="4.5"/><text class="value" x="481" y="108" text-anchor="end">156/600 xp</text>
 <text class="label" x="200" y="136">streak</text>
 <text class="value" x="252" y="136">🔥 0 days  ·  best 1</text>
-<text class="facts" x="200" y="160">12 commits  ·  8 days old  ·  TypeScript  ·  @bladeRc</text>
+<text class="facts" x="200" y="160">12 commits  ·  9 days old  ·  TypeScript  ·  @bladeRc</text>
 <text class="speech" x="200" y="180">“Ran away! One commit brings Pokibo back.”</text>
 </svg>
